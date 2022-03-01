@@ -1,1 +1,1 @@
-# Pharmacy-Inventory
+# Pharmacy Inventory System
